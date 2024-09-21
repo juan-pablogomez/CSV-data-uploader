@@ -1,0 +1,19 @@
+{
+    "name": "pablo/csv-data-uploader",
+    "description": "Wordpress plugin for managind data uploaded from csv files",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Includes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "juan-pablogomez",
+            "email": "juan-pablogomez@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
